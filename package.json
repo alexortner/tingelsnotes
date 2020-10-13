@@ -1,0 +1,31 @@
+{
+  "name": "tingelsnotes",
+  "version": "1.0.0",
+  "description": "Personal blog, wiki and knowledge base",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexortner/tingelsnotes.git"
+  },
+  "keywords": [
+    "data",
+    "science",
+    "harp",
+    "trombone",
+    "mkp"
+  ],
+  "author": "alex von tingel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexortner/tingelsnotes/issues"
+  },
+  "homepage": "https://github.com/alexortner/tingelsnotes#readme",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
+}
